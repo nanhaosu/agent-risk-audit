@@ -1,0 +1,28 @@
+{
+  "upstream_commit": "82ef3aed74950ba03eadcdb087743251196355a3",
+  "synthetic_only": true,
+  "files": {
+    ".github/workflows/offline-checks.yml": "0e9297febaefad0a1e0784a9e04d8d8bd807ba2b98f1281859d5b1f2b0d9945f",
+    ".gitignore": "decc3e2f590f310ced85f20d817702bc93f0bea84c6fa8e513fc4c4f2d34ddd5",
+    "docs/EVIDENCE.md": "9893aa359f781a7ad36c4adbab0dc663f713667439ea5597c43e84e16b45faa4",
+    "docs/JRH_OFFLINE_RUNBOOK.md": "b26c472f347ba3abe13265cc003ae43aa504a7c4b03f1d9b786640137b8f3a21",
+    "fixture/manifest.json": "80811e4d1a561f586f2efac915707b5fb3d4a5e170cee3a215f4e78f6db807d0",
+    "fixture/plan.json": "039a9b904bb1be1aad28b01dcadd2d176c1cf339af080722b3b66795f07abcfe",
+    "fixture/records.csv": "ec2fed096b241aaeaa55f16697b5384c1b42a660cbf3ae08e2f0e7e63cf541d5",
+    "fixture/records.jsonl": "43164ec3bd7b69b34a9b1067616e140eafdb4e684661722934d13903e7d63085",
+    "LICENSE": "fb23a3039148af57b7de2c5d122edcf63cf0ee9cf596817aceda131623820e16",
+    "README.md": "22aa32b2abe14ea798349943acef881adbd59700acc4fccce97fdad690132fb4",
+    "README.zh-CN.md": "0c7f47291031402d8694d17fdb61692d5a78b3fd2d7b9abcd0fe1a4ccb850aeb",
+    "requirements.txt": "902406fefbf5df44d070b0ee84673588208755f7fe7921cf411be7da44266a8f",
+    "run_checks.py": "f5a5cfefcd4c145e438f36c51253ddad22f396c20a96216394f720ad50b8fddb",
+    "scripts/analyze_responses.py": "dbe121f80916ec3c0b2d90d9965f025b3c93f5e30c5e9a02926d9467cac147c8",
+    "scripts/common.py": "f4495105e96b0d7b31ef4f74f66974ab40f05a3d64f7fdbfe5b4c403594988f4",
+    "scripts/jrh_export.py": "32cbf11409cd9de23c028d64f9ca04b01092f5c9fc4439a7fa255c815ad90ad0",
+    "scripts/jrh_offline.py": "f8bc5b899985faad01709941ef051b5c0fab90b3e707c6e92c1d90aaa85f13ac",
+    "tests/test_jrh_export.py": "6a5153728f0c45050d25067e0b451e262e5bdb01b9fde0dde447bc7f318efbcd",
+    "tests/test_jrh_offline.py": "04377afb2b1f0abaceb6243755069889bceac82a5a56176f3465e668c1254649",
+    "THIRD_PARTY_NOTICES.md": "69d6d7a0a4fbaf0542baf3f1e28f61250f614eef9543b444cacec4a9dfdf2701",
+    "vendor/jrh/evaluator.py": "f3c4fb85d8d6e5de9fdaa1f6f81711a97fee067ec332788df98c27dd37670bd9",
+    "vendor/jrh/LICENSE": "c2ce29c8beca0c2cca54ad2ff0222dadb3da7c3d90679cb16989d5c162681b88"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "evidence_type": "synthetic_contract_test",
+  "blocks": [
+    {
+      "path": "synthetic.jsonl",
+      "sha256": "318a997f3d4a9220820a5a7c176212c458df66b9831f5328ed3c6e61f511a062",
+      "repeat_id": 1,
+      "plans": [
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 1,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "valid"
+        },
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 1,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "error"
+        },
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 1,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "invalid"
+        },
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 1,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "mismatch"
+        },
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 1,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "duplicate"
+        },
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 1,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "missing"
+        }
+      ]
+    },
+    {
+      "path": "absent.jsonl",
+      "sha256": null,
+      "repeat_id": 2,
+      "plans": [
+        {
+          "source_id": "SYNTHETIC-scene",
+          "linkage_state": "unresolved",
+          "representation": "canonical",
+          "repeat_id": 2,
+          "condition": "full_context",
+          "prompt_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "case_id": "missing-block"
+        }
+      ]
+    }
+  ]
+}

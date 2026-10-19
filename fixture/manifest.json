@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "evidence_type": "synthetic_contract_test",
+  "artifact_sha256": {
+    "records.csv": "ec2fed096b241aaeaa55f16697b5384c1b42a660cbf3ae08e2f0e7e63cf541d5",
+    "records.jsonl": "43164ec3bd7b69b34a9b1067616e140eafdb4e684661722934d13903e7d63085",
+    "plan.json": "039a9b904bb1be1aad28b01dcadd2d176c1cf339af080722b3b66795f07abcfe"
+  }
+}
